@@ -40,6 +40,7 @@ public class prefixSum {
         System.out.println("prefix Array is: ");
         int [] pref=makePrefixSum(arr);
         printArray(pref);
+        sc.close();
     }
     
 }
